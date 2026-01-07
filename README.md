@@ -1,4 +1,4 @@
-📊 #Exploratory Data Analysis of Diwali Sales using Python
+📊**Exploratory Data Analysis of Diwali Sales using Python**
 
 This project focuses on performing Exploratory Data Analysis (EDA) on Diwali sales data to uncover meaningful insights into customer purchasing behavior. Using Python and popular data analysis libraries, the analysis identifies key trends based on gender, age group, marital status, occupation, state, and product categories.
 
@@ -6,7 +6,7 @@ The goal of this project is to help businesses understand customer segments and 
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-🛠️ # Tools & Technologies Used
+🛠️**Tools & Technologies Used**
 
 - Python
 
@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________________________________________________________________________________
 
-🔍 # Key Insights from the Analysis
+🔍**Key Insights from the Analysis**
 
 - Married women aged 26–35 years are the most active buyers
 
@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 ____________________________________________________________________________________________________________________________________________________________________
 
-📈 # Project Highlights
+📈**Project Highlights**
 
 - Data cleaning and preprocessing
 

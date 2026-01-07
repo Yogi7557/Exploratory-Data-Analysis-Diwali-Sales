@@ -1,41 +1,70 @@
-📊**Exploratory Data Analysis of Diwali Sales using Python**
+# 📊 Diwali Sales EDA
 
-This project focuses on performing Exploratory Data Analysis (EDA) on Diwali sales data to uncover meaningful insights into customer purchasing behavior. Using Python and popular data analysis libraries, the analysis identifies key trends based on gender, age group, marital status, occupation, state, and product categories.
+## 📝 Project Overview
+This project performs **Exploratory Data Analysis (EDA)** on Diwali sales data to understand customer purchasing behavior during the festive season. The analysis focuses on identifying trends based on **demographics, occupation, geography, and product categories** to derive actionable business insights.
 
-The goal of this project is to help businesses understand customer segments and improve targeted marketing strategies during festive seasons.
+The project is implemented using **Python** and visualized using industry-standard data visualization libraries.
 
-_______________________________________________________________________________________________________________________________________________________________________
+---
 
-🛠️**Tools & Technologies Used**
+## 🎯 Objectives
+- Analyze customer demographics and buying patterns
+- Identify top-performing product categories
+- Understand the impact of age, gender, marital status, and occupation on sales
+- Provide data-driven insights for targeted marketing strategies
 
-- Python
+---
 
-- Pandas & NumPy (Data Cleaning & Analysis)
+## 🛠 Tools & Technologies
+- **Python**
+- **Pandas** – Data manipulation and analysis  
+- **NumPy** – Numerical operations  
+- **Matplotlib** – Data visualization  
+- **Seaborn** – Advanced statistical visualizations  
+- **Jupyter Notebook**
 
-- Matplotlib & Seaborn (Data Visualization)
+---
 
-- Jupyter Notebook
+## 📂 Dataset Information
+The dataset contains Diwali sales transaction data with the following key attributes:
+- Gender
+- Age Group
+- Marital Status
+- State
+- Occupation
+- Product Category
+- Orders
+- Amount (Sales Value)
 
-____________________________________________________________________________________________________________________________________________________________________
+---
 
-🔍**Key Insights from the Analysis**
+## 🔍 Key Insights
+- **Married women aged 26–35 years** are the most active buyers
+- Highest sales contribution comes from **Uttar Pradesh, Maharashtra, and Karnataka**
+- Customers working in **IT, Healthcare, and Aviation** sectors show higher purchasing power
+- **Food, Clothing & Apparel, and Electronics & Gadgets** are the top-selling product categories
+- Certain product IDs dominate in terms of order volume
 
-- Married women aged 26–35 years are the most active buyers
+---
 
-- Customers from Uttar Pradesh, Maharashtra, and Karnataka contribute the highest sales
-
-- IT, Healthcare, and Aviation professionals show higher purchasing power
-
-____________________________________________________________________________________________________________________________________________________________________
-
-📈**Project Highlights**
-
+## 📈 Analysis Performed
 - Data cleaning and preprocessing
+- Handling missing and inconsistent values
+- GroupBy aggregations for sales and orders
+- Univariate and bivariate analysis
+- Insight-driven visualizations for business interpretation
 
-- Feature engineering
+---
 
-- Insight-driven visualizations
+## 📊 Visualizations Included
+- Count plots for categorical variables
+- Bar plots for sales and orders
+- Top 10 products by orders
+- Sales distribution by occupation and product category
 
-- Business-oriented conclusions
+---
 
-- Food, Clothing & Apparel, and Electronics are the top-selling product categories
+## ▶️ How to Run the Project
+1. Clone this repository
+   ```bash
+   git clone https://github.com/your-username/Diwali-Sales-EDA.git

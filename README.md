@@ -64,7 +64,3 @@ The dataset contains Diwali sales transaction data with the following key attrib
 
 ---
 
-## ▶️ How to Run the Project
-1. Clone this repository
-   ```bash
-   git clone https://github.com/Yogi7557/Diwali-Sales-EDA.git
